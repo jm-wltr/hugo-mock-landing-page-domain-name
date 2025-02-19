@@ -6,6 +6,7 @@ copyright = "Jaime Walter Pérez | Penn Class of 2027 | CIS 3500"
 timeZone = 'Europe/London'
 
 # Multilingual
+languageCode = "en-US" 
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 
