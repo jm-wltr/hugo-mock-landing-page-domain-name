@@ -5,11 +5,6 @@ copyright = "Jaime Walter Pérez | Penn Class of 2027 | CIS 3500"
 
 timeZone = 'Europe/London'
 
-# Multilingual
-# languageCode = "en-US" 
-# defaultContentLanguage = "en"
-# defaultContentLanguageInSubdir = false
-
 theme = "hugo-bootstrap-theme"
 
 disableHugoGeneratorInject = true
@@ -19,6 +14,15 @@ enableEmoji = true
 #sectionPagesMenu = "main"
 #googleAnalytics = "UA-1511XXXX-X"
 
+[languages]
+  [languages.en]
+    disabled = false
+    languageCode = ''
+    languageDirection = ''
+    languageName = ''
+    title = ''
+    weight = 0
+    
 [frontmatter]
   date = ["date", "publishDate", "lastmod"]
   lastmod = ["lastmod", ":fileModTime", ":default"]
