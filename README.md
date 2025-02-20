@@ -1,6 +1,6 @@
 # hugo-mock-landing-page
 
-A static landing page with custom formatting for an educational platform, **Connected Neurons**, built using Hugo for **CIS 3500**.
+A static landing page with custom formatting for an educational platform, **Connected Neurons**, built using Hugo for **CIS 3500**. This version is autodeployed with GitHub actions, so that every time I commit and push a change to the repository, the deployment is updated instantly.
 
 ## About Connected Neurons
 Connected Neurons was a website I created during high school but unfortunately lost over time. This project is a small recreation of it, with a modern design and improved formatting (in my opinion).
@@ -8,9 +8,10 @@ Connected Neurons was a website I created during high school but unfortunately l
 ## View the Site
 To view the site online, visit:
 
-[Connected Neurons](https://jm-wltr.github.io/hugo-mock-landing-page/)
+[Connected Neurons](https://jm-wltr.github.io/hugo-mock-landing-page-autodeployed/)
 
 ## Getting Started
+If you want to run the code in your computer:
 
 ### Prerequisites
 - Ensure [Hugo](https://gohugo.io/getting-started/installing/) is installed on your system.
